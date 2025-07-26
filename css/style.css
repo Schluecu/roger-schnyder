@@ -18,6 +18,14 @@ nav {
     color: transparent;
 }
 
+a {
+    display:inline;
+}
+
+p {
+    display:inline;
+}
+
 r:hover {
     cursor:pointer;
 }
