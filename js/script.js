@@ -9,6 +9,6 @@ function myFunction() {
   } else {
     y.style.display="none";
     z.style="color: transparent;outline:0.07vmax black";
-    x.style="width:100vw;padding-top:5vmax;display:block; float:left; color: black";
+    x.style="width:40vw;padding-top:5vmax;display:block; float:left; color: black";
   }
 }
