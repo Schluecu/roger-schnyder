@@ -73,3 +73,7 @@ body {
 	height: 0;
 	visibility: hidden;
 }
+
+a:any-link {
+	color:inherit;
+}
