@@ -53,7 +53,8 @@ q {
 
 /* Style navigation menu links */
 .topnav a {
-  font-size: clamp(12.5pt, 3.5vmax, 3.5vw);
+  font-size: clamp(12.5pt, 1.5vmax, 1.5vw);
+  line-height:.85vmax;
   padding: 1vw;
   float: left;
 }
@@ -79,5 +80,5 @@ q {
 .active {
   color: black;
     -webkit-text-stroke-width: 0;
-    font-size: clamp(12.5pt, 3.5vmax, 3.5vw);
+    font-size: clamp(12.5pt, 1.5vmax, 1.5vw);
 }
