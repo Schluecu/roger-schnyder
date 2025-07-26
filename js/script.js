@@ -8,7 +8,7 @@ function myFunction() {
     z.style="color:black"
   } else {
     y.style.display="none";
-    z.style="color:gray;
+    z.style="color:gray;"
     x.style="display:grid;width:40vw;padding-left:5vw;padding-top:5vmax;color:black";
   }
 }
