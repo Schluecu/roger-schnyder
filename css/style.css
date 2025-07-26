@@ -24,6 +24,7 @@ a {
 
 p {
     display:inline;
+    padding-right:2vmax;
 }
 
 r:hover {
@@ -63,6 +64,11 @@ q {
   position: absolute;
   left: .5vw;
   top: .5vw;
+}
+
+.sub {
+    float: right;
+    margin-left: 2vmax;
 }
 
 .topnav a.icon:hover {
