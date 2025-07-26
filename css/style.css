@@ -43,7 +43,7 @@ r:hover {
 /* Style navigation menu links */
 .topnav a {
   font-size: clamp(12.5pt, 1.5vw, 1.5vw);
-  line-height:3vw;
+  line-height:clamp(12.5pt, 3vw, 3vmax);
   padding: 1vw;
   float: left;
 }
