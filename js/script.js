@@ -8,7 +8,7 @@ function myFunction() {
     z.style="color: black;outline:0vmax black"
   } else {
     y.style.display="none";
-    z.style="color: transparent;outline:calc(3.5vmax/50) black";
+    z.style="color: transparent;outline:0.07vmax black";
     x.style="width:20vw;padding-top:5vw;display:block; float:left; color: transparent;-webkit-text-stroke-color: black;-webkit-text-stroke-width: calc(3.5vmax/50);";
   }
 }
