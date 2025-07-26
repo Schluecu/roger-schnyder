@@ -2,8 +2,8 @@ function myFunction() {
   var x = document.getElementById("myLinks");
   var y = document.getElementById("yes");
   var z = document.getElementById("logo");
-  if (x.style.display === "block") {
-    x.style.display = "none";
+  if (x.style.display === "grid") {
+    x.style.display="none";
     y.style.display="block";
     z.style="color: black;outline:0vmax black"
   } else {
