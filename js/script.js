@@ -9,6 +9,6 @@ function myFunction() {
   } else {
     y.style.display="none";
     z.style="font-size:5vw; color: transparent;-webkit-text-stroke-color: black;-webkit-text-stroke-width: calc(3.5vmax/50);";
-    x.style="width:20vw;padding-top:5vw;display:block; float:left; color: transparent;-webkit-text-stroke-color: black;-webkit-text-stroke-width: calc(3.5vmax/50);";
+    x.style="width:20vw;padding-top:5vw;display:inline-block; float:left; color: transparent;-webkit-text-stroke-color: black;-webkit-text-stroke-width: calc(3.5vmax/50);";
   }
 }
