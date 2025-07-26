@@ -5,7 +5,7 @@ function myFunction() {
   if (x.style.display === "block") {
     x.style.display = "none";
     y.style.display="block";
-    z.style="color: black;outline:0 black;
+    z.style="color: black;outline:0 black;"
   } else {
     y.style.display="none";
     z.style="color: transparent;outline:calc(3.5vmax/50) black;";
