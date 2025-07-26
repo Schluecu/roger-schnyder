@@ -19,6 +19,7 @@ a {
 p {
     display:inline;
     padding-right:2vmax;
+    padding-bottom:1vmax;
 }
 
 r:hover {
