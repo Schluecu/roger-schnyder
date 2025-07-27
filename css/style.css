@@ -77,11 +77,11 @@ r:hover {
 cap {
     max-width:min(20vw,auto);
     padding-right:2vw;
+    text-wrap:wrap;
 }
 
 .caption {
     display:none;
-    text-wrap:wrap;
 }
 
 .block:hover + .caption {
