@@ -4,6 +4,7 @@
 }
 
 body {
+    line-break:strict;
     -webkit-user-select: none;
     font-family: "Frutiger";
     background-color: lightgray;
