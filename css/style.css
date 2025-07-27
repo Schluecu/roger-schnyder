@@ -4,7 +4,6 @@
 }
 
 body {
-    white-space:normal;
     text-wrap:balance;
     line-break:strict;
     -webkit-user-select: none;
@@ -82,6 +81,7 @@ cap {
 
 .caption {
     display:none;
+    white-space:normal;
 }
 
 .block:hover + .caption {
