@@ -65,3 +65,18 @@ r:hover {
 .topnav a.icon:hover {
     cursor:pointer;
 }
+
+.grid {
+    width:20vw;
+    height:auto;
+    float:top;
+    padding-right:2vw;
+}
+
+.caption {
+  display: none;
+}
+
+.grid:hover + .caption {
+  display: block;
+}
