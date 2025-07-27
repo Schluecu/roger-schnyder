@@ -81,7 +81,7 @@ cap {
 
 .caption {
     display:none;
-    white-space:normal;
+    text-wrap:wrap;
 }
 
 .block:hover + .caption {
