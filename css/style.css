@@ -69,7 +69,7 @@ r:hover {
 .grid {
     width:20vw;
     height:auto;
-    float:top;
+    align-items:start;
     padding-right:2vw;
 }
 
