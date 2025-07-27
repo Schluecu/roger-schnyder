@@ -8,7 +8,7 @@ body {
     font-family: "Frutiger";
     background-color: lightgray;
     color:black;
-    font-size: clamp(12.5pt, 1.5vmax, 1.5vw);
+    font-size: clamp(12.5pt, 1vmax, 1vw);
     line-height: 1.3;
 }
 
@@ -43,8 +43,8 @@ r:hover {
 
 /* Style navigation menu links */
 .topnav a {
-  font-size: clamp(12.5pt, 1.5vw, 1.5vw);
-  line-height:clamp(12.5pt, 3vw, 3vmax);
+  font-size: clamp(12.5pt, 1vw, 1vw);
+  line-height:clamp(12.5pt, 2vw, 2vmax);
   padding: 1vw;
   float: left;
 }
