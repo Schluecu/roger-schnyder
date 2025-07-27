@@ -4,6 +4,7 @@
 }
 
 body {
+    text-wrap:pretty;
     line-break:strict;
     -webkit-user-select: none;
     font-family: "Frutiger";
@@ -74,6 +75,7 @@ r:hover {
 }
 
 cap {
+    width:100%;
     max-width:20vw;
     padding-right:2vw;
 }
