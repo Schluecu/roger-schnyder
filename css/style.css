@@ -73,6 +73,10 @@ r:hover {
     padding-right:2vw;
 }
 
+cap {
+    width:20vw;
+}
+
 .caption {
     display:none;
 }
