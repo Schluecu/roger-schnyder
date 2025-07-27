@@ -74,7 +74,8 @@ r:hover {
 }
 
 cap {
-    width:20vw;
+    max-width:20vw;
+    padding-right:2vw;
 }
 
 .caption {
