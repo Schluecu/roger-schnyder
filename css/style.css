@@ -77,6 +77,6 @@ r:hover {
   display: none;
 }
 
-.grid:hover + .caption {
-  display: block;
+.block:hover + .caption {
+  display: inline-block;
 }
