@@ -75,7 +75,7 @@ r:hover {
 }
 
 cap {
-    max-width:20vw;
+    width:20vw;
     padding-right:2vw;
     text-wrap:wrap;
 }
