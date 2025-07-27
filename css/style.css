@@ -4,7 +4,8 @@
 }
 
 body {
-    text-wrap:pretty;
+    white-space:normal;
+    text-wrap:balance;
     line-break:strict;
     -webkit-user-select: none;
     font-family: "Frutiger";
