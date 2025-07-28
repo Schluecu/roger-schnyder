@@ -84,11 +84,6 @@ r:hover {
     width:20vw;
     padding-right:2vw;
     display:inline-flex;
-    color:lightgray;
-}
-
-.bild:hover + caption {
-    color:black;
 }
 
 .column {
