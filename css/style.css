@@ -82,9 +82,13 @@ r:hover {
 .caption {
     width:10vw;
     padding-right:2vw;
-    display:none;
+    visibility:collapse;
+}
+
+.bild:hover {
+    visibility:collapse;
 }
 
 .bild:hover + .caption {
-  display: flexbox;
+  visibility: visible;
 }
