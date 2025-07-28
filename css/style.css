@@ -88,8 +88,10 @@ row {
 
 .caption {
     display:none;
+    width:20vw;
+    padding-right:2vw;
 }
 
-.block:hover + .caption {
+.row:hover + .caption {
   display: inline;
 }
