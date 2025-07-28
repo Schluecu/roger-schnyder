@@ -76,7 +76,9 @@ r:hover {
 }
 
 .grid {
-  display: flex;
+    display: flexbox;
+    width: 60vw;
+    height: auto;
 }
 
 .caption {
