@@ -75,6 +75,10 @@ r:hover {
     padding-right:2vw;
 }
 
+.bild:hover + caption {
+    color:black;
+}
+
 .grid {
     display: flex;
     width: 1vw;
@@ -84,6 +88,7 @@ r:hover {
     width:20vw;
     padding-right:2vw;
     display:inline-flex;
+    color:lightgray;
 }
 
 .column {
