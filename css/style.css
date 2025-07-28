@@ -77,16 +77,12 @@ r:hover {
 
 .grid {
     display: flexbox;
-    width: 60vw;
+    width: 80vw;
     height: auto;
 }
 
 .caption {
-    width:10vw;
+    width:20vw;
     padding-right:2vw;
-    display:none;
-}
-
-.bild:hover .caption {
-  display: flex;
+    display:flex;
 }
