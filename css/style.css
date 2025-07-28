@@ -82,11 +82,7 @@ r:hover {
 .caption {
     width:10vw;
     padding-right:2vw;
-    visibility:collapse;
-}
-
-.bild:hover {
-    visibility:collapse;
+    visibility:hidden;
 }
 
 .bild:hover + .caption {
