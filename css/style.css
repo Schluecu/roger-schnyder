@@ -94,5 +94,5 @@ row {
     display:none;
 }
 .row:hover + .caption.row {
-  display: inline;
+  display: block;
 }
