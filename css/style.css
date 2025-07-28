@@ -77,8 +77,6 @@ r:hover {
 
 .grid {
     display: flex;
-    width: 80vw;
-    height: auto;
 }
 
 .caption {
