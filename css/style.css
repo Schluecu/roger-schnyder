@@ -84,5 +84,5 @@ r:hover {
 .caption {
     width:20vw;
     padding-right:2vw;
-    display:flex;
+    display:inline;
 }
