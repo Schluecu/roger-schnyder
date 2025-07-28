@@ -86,3 +86,7 @@ r:hover {
     padding-right:2vw;
     display:inline;
 }
+
+.caption:hover {
+    display:inline;
+}
