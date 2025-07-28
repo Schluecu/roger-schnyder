@@ -83,6 +83,7 @@ r:hover {
 .caption {
     width:20vw;
     padding-right:2vw;
+    padding-top:1vmax;
     display:inline-flex;
 }
 
@@ -92,4 +93,9 @@ r:hover {
 
 .row {
     flex-direction:row;
+}
+
+.jahre {
+    margin-top:2vmax;
+    margin-bottom:2vmax;
 }
