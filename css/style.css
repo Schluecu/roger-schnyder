@@ -86,3 +86,11 @@ r:hover {
     padding-right:2vw;
     display:inline-flex;
 }
+
+.column {
+    flex-direction:column;
+}
+
+.row {
+    flex-direction:row;
+}
