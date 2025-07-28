@@ -83,8 +83,10 @@ r:hover {
     width:10vw;
     padding-right:2vw;
     visibility:hidden;
+    display:none;
 }
 
 .bild:hover + .caption {
   visibility: visible;
+  display: flex;
 }
