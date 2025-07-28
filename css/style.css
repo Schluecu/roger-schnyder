@@ -75,15 +75,8 @@ r:hover {
     padding-right:2vw;
 }
 
-cap {
-    width:20vw;
-    padding-right:2vw;
-    text-wrap:wrap;
-    display:inline;
-}
-
-row {
-    display:block;
+.grid {
+    display:inline-grid;
 }
 
 .caption {
@@ -93,5 +86,5 @@ row {
 }
 
 .bild:hover + .caption {
-  display: block;
+  display: inline-grid;
 }
