@@ -87,11 +87,12 @@ row {
 }
 
 .caption {
-    display:none;
     width:20vw;
     padding-right:2vw;
 }
-
-.row:hover + .caption {
+.caption.row {
+    display:none;
+}
+.row:hover + .caption.row {
   display: inline;
 }
