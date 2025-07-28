@@ -4,7 +4,7 @@
 }
 
 body {
-    text-wrap:balance;
+    text-wrap:wrap;
     line-break:strict;
     -webkit-user-select: none;
     font-family: "Frutiger";
