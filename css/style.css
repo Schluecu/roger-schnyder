@@ -1,13 +1,13 @@
 @font-face {
-    font-family: "Frutiger";
-    src: url("https://schluecu.github.io/roger-schnyder.github.io/font/FrutigerNeueLTPro-Light.woff");
+    font-family: "DINPro";
+    src: url("https://schluecu.github.io/roger-schnyder.github.io/font/DINPro.woff");
 }
 
 body {
     text-wrap:wrap;
     line-break:strict;
     -webkit-user-select: none;
-    font-family: "Frutiger";
+    font-family: "DINPro";
     background-color: lightgray;
     color:black;
     font-size: clamp(12.5pt, 1vmax, 1vw);
