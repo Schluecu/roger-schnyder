@@ -73,6 +73,10 @@ r:hover {
     align-items:start;
 }
 
+bild:hover {
+    cursor:pointer;
+}
+
 .grid {
     width: 80vw;
     height: auto;
