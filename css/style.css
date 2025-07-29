@@ -99,14 +99,20 @@ bild:hover {
 
 .three {
     width:25vw;
-    height:25vw;
     padding-right:1.6vw;
+}
+
+img .three {
+    height:25vw;
 }
 
 .five {
     width: 15vw;
-    height: 15vw;
     padding-right: 1vw;
+}
+
+img .five {
+    height: 15vw;
 }
 
 .jahre {
