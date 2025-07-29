@@ -87,7 +87,7 @@ bild:hover {
     height: auto;
     display: flex;
     flex-flow:row wrap;
-    padding-bottom:5vh;
+    padding-bottom:15vh;
 }
 
 .caption {
