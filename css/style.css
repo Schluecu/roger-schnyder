@@ -100,19 +100,15 @@ bild:hover {
 .three {
     width:25vw;
     padding-right:1.6vw;
-}
-
-.bild & .three {
-    height:25vw;
+    & .bild {height:25vw;}
 }
 
 .five {
     width: 15vw;
     padding-right: 1vw;
-}
-
-.bild & .five {
+    & .bild {
     height: 15vw;
+    }
 }
 
 .jahre {
