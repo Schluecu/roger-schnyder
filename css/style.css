@@ -127,7 +127,7 @@ bild:hover {
 [id^=bild]:checked + label > img {
     width:80vw;
     height:auto;
-    object-fit:none;
+    object-fit:fill;
     display: flex;
     justify-content: center;
     align-items: center;
