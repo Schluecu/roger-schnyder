@@ -76,6 +76,7 @@ r:hover {
 .grid {
     display: flex;
     width: 1vw;
+    flex-wrap:wrap;
 }
 
 .caption {
