@@ -118,6 +118,15 @@ bild:hover {
     height:25vw;
 }
 
+.four {
+    width:18vw;
+    padding-right:2vw;
+}
+
+.bild.four {
+    height:18vw;
+}
+
 .five {
     width: 15vw;
     padding-right: 1vw;
