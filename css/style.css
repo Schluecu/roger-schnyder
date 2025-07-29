@@ -113,6 +113,7 @@ r:hover {
 
 [id^=bild]:checked + label > img {
     height:50vh;
+    width:auto;
     display: flex;
     justify-content: center;
     align-items: center;
