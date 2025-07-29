@@ -112,8 +112,7 @@ r:hover {
 
 [id^=bild]:checked + label > img {
     width:60vw;
-    position:absolute;
-    top: 50vh;
-    left: 50vw;
-    transform: translate(-50vh, -50vw);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
