@@ -111,7 +111,7 @@ bild:hover {
 
 .two {
     width:35vw;
-    padding-right:5vw;
+    padding-right:3vw;
 }
 
 .bild.two {
@@ -152,7 +152,7 @@ bild:hover {
 .foto {
     object-fit:fill;
     height:auto;
-    padding-bottom: 1vh;
+    padding-bottom: 4vh;
 }
 
 .grafie {
