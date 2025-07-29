@@ -109,6 +109,15 @@ bild:hover {
     flex-flow:row wrap;
 }
 
+.two {
+    width:35vw;
+    padding-right:5vw;
+}
+
+.bild.two {
+    height:35vw;
+}
+
 .three {
     width:25vw;
     padding-right:1.6vw;
