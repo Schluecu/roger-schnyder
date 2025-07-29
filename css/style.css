@@ -38,6 +38,10 @@ r:hover {
     .topnav {display:none;}
 }
 
+#logo {
+    padding-left:5vmax;
+}
+
 /* Hide the links inside the navigation menu (except for logo/home) */
 .topnav #myLinks {
   display: none;
