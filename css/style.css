@@ -128,7 +128,6 @@ bild:hover {
     width:80vw;
     height:auto;
     object-fit:none;
-    max-height:80vh;
     display: flex;
     justify-content: center;
     align-items: center;
