@@ -118,6 +118,6 @@ r:hover {
     align-items: center;
 }
 
-[id^=bild]:checked ~ caption {
+[id^=bild]:checked ~ .caption {
     color:black;
 }
