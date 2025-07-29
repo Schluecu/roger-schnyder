@@ -81,6 +81,7 @@ r:hover {
 .caption {
     padding-top:.5vmax;
     display:inline-flex;
+    color:lightgray;
 }
 
 .column {
@@ -115,4 +116,8 @@ r:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+[id^=bild]:checked ~ caption {
+    color:black;
 }
