@@ -106,7 +106,7 @@ r:hover {
     margin-bottom:1vmax;
 }
 
-#bild:checked + .bild {
+[id^=bild]:checked + .bild {
     width:60vw;
     position:absolute;
     top: 50%;
