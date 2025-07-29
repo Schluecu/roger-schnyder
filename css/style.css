@@ -82,11 +82,13 @@ r:hover {
 
 .caption {
     padding-top:.5vmax;
+    padding-bottom:1vmax;
     display:inline-flex;
     color:lightgray;
 }
 
 .column {
+    display:flex;
     flex-direction:column;
 }
 
