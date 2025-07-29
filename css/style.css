@@ -74,6 +74,7 @@ r:hover {
 }
 
 .grid {
+    width: 80vw;
     display: flex;
     width: 1vw;
     flex-direction: row;
