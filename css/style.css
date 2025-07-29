@@ -116,9 +116,8 @@ bild:hover {
 }
 
 [id^=bild]:checked + label > img {
-    height:minmax(50vw,80vmax);
+    height:80vh;
     width:auto;
-    max-width:minmax(50vh,80vmax);
     display: flex;
     justify-content: center;
     align-items: center;
