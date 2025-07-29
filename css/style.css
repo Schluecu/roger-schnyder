@@ -110,7 +110,7 @@ r:hover {
     display:none;
 }
 
-[id^=bild]:checked + .bild {
+[id^=bild]:checked + label {
     width:60vw;
     position:absolute;
     top: 50%;
