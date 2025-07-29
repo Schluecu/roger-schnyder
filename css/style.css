@@ -68,11 +68,9 @@ r:hover {
 }
 
 .bild {
-    width:20vw;
     height:auto;
     display:inline;
     align-items:start;
-    padding-right:2vw;
 }
 
 .grid {
@@ -81,14 +79,22 @@ r:hover {
 }
 
 .caption {
-    width:20vw;
-    padding-right:2vw;
     padding-top:.5vmax;
     display:inline-flex;
 }
 
 .column {
     flex-direction:column;
+}
+
+.3 {
+    width:20vw;
+    padding-right:2vw;
+}
+
+.5 {
+    width: 15vw;
+    padding-right: 1vw;
 }
 
 .row {
