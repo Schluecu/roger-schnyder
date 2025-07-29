@@ -93,7 +93,7 @@ bild:hover {
     padding-top:.5vmax;
     padding-bottom:1vmax;
     display:inline-flex;
-    color:lightgray;
+    visibility:collapse;
     width:80vw;
 }
 
@@ -140,6 +140,6 @@ bild:hover {
 }
 
 [id^=bild]:checked ~ .caption {
-    color:black;
+    visibility:visible;
     width:80vw;
 }
