@@ -150,7 +150,11 @@ bild:hover {
 }
 
 .foto {
-    margin-bottom:10vh;
+    height:auto;
+}
+
+.grafie {
+    padding-bottom:20vh;
 }
 
 [id^=bild] {
