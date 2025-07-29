@@ -90,6 +90,7 @@ bild:hover {
 }
 
 .caption {
+    height:0;
     padding-top:.5vmax;
     padding-bottom:1vmax;
     display:inline-flex;
@@ -141,5 +142,6 @@ bild:hover {
 
 [id^=bild]:checked ~ .caption {
     visibility:visible;
+    height:auto;
     width:80vw;
 }
