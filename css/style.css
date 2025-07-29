@@ -76,7 +76,8 @@ r:hover {
 .grid {
     display: flex;
     width: 1vw;
-    flex-flow: row wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .caption {
@@ -99,10 +100,6 @@ r:hover {
     padding-right: 1vw;
 }
 
-.row {
-    flex-direction:row;
-}
-
 .jahre {
     margin-top:2vmax;
     margin-bottom:1vmax;
@@ -113,9 +110,9 @@ r:hover {
 }
 
 [id^=bild]:checked + label > img {
-    height:80vh;
+    height:clamp(50vh,80vh,80vmax);
+    max-width:clamp(50vw,80vw,80vmax);
     width:auto;
-    max-width:80vw;
     display: flex;
     justify-content: center;
     align-items: center;
