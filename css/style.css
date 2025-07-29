@@ -76,7 +76,7 @@ r:hover {
 .grid {
     display: flex;
     width: 1vw;
-    flex-wrap:wrap;
+    flex-flow: row wrap;
 }
 
 .caption {
@@ -115,6 +115,7 @@ r:hover {
 [id^=bild]:checked + label > img {
     height:80vh;
     width:auto;
+    max-width:80vw;
     display: flex;
     justify-content: center;
     align-items: center;
