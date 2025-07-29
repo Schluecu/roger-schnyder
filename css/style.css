@@ -140,6 +140,10 @@ bild:hover {
     margin-bottom:1vmax;
 }
 
+.foto {
+    margin-bottom:10vh;
+}
+
 [id^=bild] {
     display:none;
 }
