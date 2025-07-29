@@ -75,10 +75,9 @@ r:hover {
 
 .grid {
     width: 80vw;
+    height: auto;
     display: flex;
-    width: 1vw;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-flow:row wrap;
 }
 
 .caption {
