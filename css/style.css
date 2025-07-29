@@ -104,6 +104,11 @@ bild:hover {
     flex-direction:column;
 }
 
+.row {
+    display:flex;
+    flex-direction:row;
+}
+
 .three {
     width:25vw;
     padding-right:1.6vw;
