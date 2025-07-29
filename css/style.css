@@ -106,7 +106,7 @@ bild:hover {
 
 .row {
     display:flex;
-    flex-direction:row;
+    flex-flow:row wrap;
 }
 
 .three {
