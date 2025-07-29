@@ -87,6 +87,7 @@ bild:hover {
     height: auto;
     display: flex;
     flex-flow:row wrap;
+    padding-bottom:5vh;
 }
 
 .caption {
@@ -122,7 +123,6 @@ bild:hover {
 }
 
 .jahre {
-    margin-top:2vmax;
     margin-bottom:1vmax;
 }
 
