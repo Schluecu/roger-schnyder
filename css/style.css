@@ -68,7 +68,7 @@ r:hover {
 }
 
 .bild {
-    height:auto;
+    object-fit: cover;
     display:inline;
     align-items:start;
 }
@@ -99,11 +99,13 @@ bild:hover {
 
 .three {
     width:25vw;
+    width:25vw;
     padding-right:1.6vw;
 }
 
 .five {
     width: 15vw;
+    height: 15vw;
     padding-right: 1vw;
 }
 
@@ -118,6 +120,8 @@ bild:hover {
 
 [id^=bild]:checked + label > img {
     width:80vw;
+    height:auto;
+    object-fit:none;
     max-height:80vh;
     display: flex;
     justify-content: center;
