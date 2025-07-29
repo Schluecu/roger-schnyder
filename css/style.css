@@ -73,14 +73,6 @@ r:hover {
     align-items:start;
 }
 
-.bild:hover {
-    width:60vw;
-    position:absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
 .grid {
     display: flex;
     width: 1vw;
@@ -112,4 +104,12 @@ r:hover {
 .jahre {
     margin-top:2vmax;
     margin-bottom:1vmax;
+}
+
+#bild:checked + .bild {
+    width:60vw;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
