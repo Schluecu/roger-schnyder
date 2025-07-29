@@ -118,7 +118,6 @@ bild:hover {
 [id^=bild]:checked + label > img {
     max-width:80vw;
     max-height:80vh;
-    width:auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -127,4 +126,5 @@ bild:hover {
 
 [id^=bild]:checked ~ .caption {
     color:black;
+    max-width:80vw;
 }
