@@ -242,21 +242,3 @@ r:hover {
 		}
 	}
 }
-.pagination {
-  display: flex;
-  bottom: 10px;
-  justify-content: center;
-  position: absolute;
-  width: 100%;
-  a {
-    display: block;
-    height: 10px;
-    width: 10px;
-    &:not(:last-child) {
-      margin-right: 5px;
-    }
-    span {
-      display: none;
-    }
-  }
-}
