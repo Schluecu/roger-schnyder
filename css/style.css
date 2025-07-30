@@ -80,7 +80,6 @@ r:hover {
 	bottom:5vh;
 	right:1.5vw;
 	.sidelmnt {
-		display:flex;
 		text-align:right;
 		flex-direction:row-reverse;
 		width:auto;
