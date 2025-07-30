@@ -223,10 +223,9 @@ r:hover {
 		}
 	}
 	.slide {
-		background-color: #FFF;
 		box-sizing: border-box;
 		display: none;
-		height: 100%;
+		height: auto;
 		position: absolute;
 		width: 100%;
 		&:first-child,
