@@ -196,6 +196,7 @@ r:hover {
 .slideshow {
 	position: relative;
 	width: 100%;
+	height: 250%;
 	&:after {
 		content: '';
 		display: block;
