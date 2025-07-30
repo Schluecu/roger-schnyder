@@ -74,7 +74,7 @@ r:hover {
 
 .sidenav {
 	text-align:right;
-	align-content:right;
+	align-content:flex-end;
 	position:fixed;
 	bottom:5vh;
 	right:3vw;
