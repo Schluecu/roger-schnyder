@@ -155,6 +155,12 @@ bild:hover {
     padding-bottom: 3vh;
 }
 
+.objekt {
+    object-fit:fill;
+    height:auto;
+    padding-bottom: 3vh;
+}
+
 .grafie {
     padding-bottom:20vh;
 }
