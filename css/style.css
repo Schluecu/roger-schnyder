@@ -201,10 +201,8 @@ r:hover {
 		position: relative;
 		text-decoration: none;
 		&:after {
-			border-color: #FFF #FFF transparent transparent;
 			border-style: solid;
 			border-width: 2px;
-			color: #FFF;
 			display: block;
 			height: 10px;
 			position: absolute;
