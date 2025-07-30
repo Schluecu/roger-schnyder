@@ -12,3 +12,8 @@ function myFunction() {
     x.style="display:grid;width:40vw;padding-left:5vw;padding-top:5vmax;color:black";
   }
 }
+
+$('.img-links').on('click', 'input', function(){
+    var src = $(this).attr('data-src');
+    $('.featured-img img').attr('src', src);
+});
