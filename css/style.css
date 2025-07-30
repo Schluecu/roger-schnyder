@@ -81,6 +81,7 @@ r:hover {
 		display:flex;
 		text-align:right;
 		flex-direction:row-reverse;
+		width:auto;
 	}
 	margin-left:auto;
 	margin-right:0;
