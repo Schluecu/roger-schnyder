@@ -169,10 +169,6 @@ r:hover {
     display:none;
 }
 
-[id^=stele] {
-    display:none;
-}
-
 [id^=bild]:checked + label > img {
     width:80vw;
     height:auto;
