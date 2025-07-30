@@ -77,9 +77,6 @@ r:hover {
 	position:fixed;
 	bottom:5vh;
 	right:3vw;
-	.sidelmnt::before {
-		content:"○";
-	}
 	.sidelmnt {
 		display:flex;
 		text-align:right;
