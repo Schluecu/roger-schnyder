@@ -77,9 +77,13 @@ r:hover {
 	position:fixed;
 	bottom:5vh;
 	right:3vw;
+	.sidelmnt::before {
+		content:"○";
+	}
 	.sidelmnt {
 		display:flex;
 		text-align:right;
+		flex-direction:row-reverse;
 	}
 	margin-left:auto;
 	margin-right:0;
