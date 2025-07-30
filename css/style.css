@@ -28,12 +28,12 @@ r:hover {
     cursor:pointer;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 900px) {
     .bignav {display:none;}
     .topnav {display:inline-block;float:left;}
     
 }
-@media only screen and (min-width: 801px) {
+@media only screen and (min-width: 901px) {
     .bignav {display:inline-block;float:left;}
     .topnav {display:none;}
 }
