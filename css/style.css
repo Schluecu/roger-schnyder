@@ -73,6 +73,7 @@ r:hover {
 }
 
 .sidenav {
+	text-align:right;
 	position:fixed;
 	bottom:10vh;
 	right:5vw;
