@@ -77,10 +77,8 @@ r:hover {
 	position:fixed;
 	bottom:5vh;
 	right:3vw;
-	align:right;
 	.sidelmnt {
 		display:flex;
-		margin-top:2vh;
 	}
 	.sidelmnt::after {
 		content:" ●"
