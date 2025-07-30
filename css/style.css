@@ -78,7 +78,7 @@ r:hover {
     align-items:start;
 }
 
-bild:hover {
+.bild:hover {
     cursor:pointer;
 }
 
@@ -167,6 +167,15 @@ bild:hover {
 
 [id^=bild] {
     display:none;
+}
+
+[id^=stele] {
+    display:none;
+}
+
+#stele1:checked{
+    #steleone {display:none}
+    #steletwo {display:flex}
 }
 
 [id^=bild]:checked + label > img {
