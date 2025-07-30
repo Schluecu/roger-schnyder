@@ -79,9 +79,6 @@ r:hover {
 	.sidelmnt {
 		display:flex;
 	}
-	.sidelmnt::after {
-		content:"&thinsp;○"
-	}
 	margin-left:auto;
 	margin-right:0;
 	text-align:right;
