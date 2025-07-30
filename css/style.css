@@ -201,6 +201,7 @@ r:hover {
 		position: relative;
 		text-decoration: none;
 		&:after {
+			border-color: black black transparent transparent;
 			border-style: solid;
 			border-width: 2px;
 			display: block;
