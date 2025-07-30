@@ -73,15 +73,16 @@ r:hover {
 }
 
 .sidenav {
+	text-align:right;
 	position:fixed;
 	bottom:5vh;
 	right:3vw;
 	.sidelmnt {
 		display:flex;
+		text-align:right;
 	}
 	margin-left:auto;
 	margin-right:0;
-	text-align:right;
 }
 
 .bild {
