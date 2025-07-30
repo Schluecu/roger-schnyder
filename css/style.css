@@ -174,10 +174,6 @@ r:hover {
     padding-bottom: 3vh;
 }
 
-.foto:hover {
-	cursor:none;
-}
-
 .objekt {
     object-fit:fill;
     height:auto;
