@@ -13,7 +13,7 @@ function myFunction() {
   }
 }
 
-$('.img-links').on('click', 'input', function(){
-    var src = $(this).attr('data-src');
-    $('.featured-img img').attr('src', src);
+document('.img-links').on('click', 'input', function(){
+    var src = document(this).attr('data-src');
+    document('.featured-img img').attr('src', src);
 });
