@@ -109,6 +109,10 @@ r:hover {
     flex-flow:row wrap;
 }
 
+.one {
+	width:60vw;
+}
+
 .two {
     width:35vw;
     padding-right:3vw;
