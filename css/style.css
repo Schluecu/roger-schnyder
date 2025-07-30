@@ -72,6 +72,16 @@ r:hover {
     cursor:pointer;
 }
 
+.sidenav {
+	position:absolute;
+	bottom:10vh;
+	right:5vw;
+	align:right;
+	.sub::after {
+		content:" ●"
+	}
+}
+
 .bild {
     object-fit: cover;
     display:inline;
