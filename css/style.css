@@ -31,11 +31,13 @@ r:hover {
 @media only screen and (max-width: 900px) {
     .bignav {display:none;}
     .topnav {display:inline-block;float:left;}
+    .sidelmnt {display:none;}
     
 }
 @media only screen and (min-width: 901px) {
     .bignav {display:inline-block;float:left;}
     .topnav {display:none;}
+    .sidelmnt {display:flex;}
 }
 
 #logo {
