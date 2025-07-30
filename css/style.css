@@ -31,13 +31,13 @@ r:hover {
 @media only screen and (max-width: 900px) {
     .bignav {display:none;}
     .topnav {display:inline-block;float:left;}
-    .sidelmnt {display:none;}
+    .sidenav {display:none;}
     
 }
 @media only screen and (min-width: 901px) {
     .bignav {display:inline-block;float:left;}
     .topnav {display:none;}
-    .sidelmnt {display:flex;}
+    .sidenav {display:flex;}
 }
 
 #logo {
@@ -83,6 +83,7 @@ r:hover {
 		text-align:right;
 		flex-direction:row-reverse;
 		width:auto;
+		display:flex;
 	}
 	margin-left:auto;
 	margin-right:0;
