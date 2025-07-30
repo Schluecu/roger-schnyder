@@ -5,10 +5,10 @@ function myFunction() {
   if (x.style.display === "grid") {
     x.style.display="none";
     y.style.display="block";
-    z.style="width:5.5vw;height:5.5vw;color:black"
+    z.style="width:5.5vw;height:5.5vw;min-width:50px;min-height:50px;color:black"
   } else {
     y.style.display="none";
-    z.style="width:5.5vw;height:5.5vw;color:gray;"
+    z.style="width:5.5vw;height:5.5vw;min-width:50px;min-height:50px;color:gray;"
     x.style="display:grid;width:40vw;padding-left:5vw;padding-top:5vmax;color:black";
   }
 }
