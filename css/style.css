@@ -32,6 +32,11 @@ a {
     display:inline;
 }
 
+p{
+	display:inline;
+	padding-right:2vw;
+}
+
 r:hover {
     cursor:pointer;
 }
