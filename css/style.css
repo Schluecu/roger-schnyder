@@ -4,10 +4,10 @@
 }
 
 @media (prefers-color-scheme: dark) {
-body {color:gainsboro; background-colour:dimgray;}
+body {color:gainsboro; background-color:383838;}
 }
 @media (prefers-color-scheme: light) {
-body {color:black; background-colour:lightgray;}
+body {color:black; background-color:lightgray;}
 }
 
 body {
