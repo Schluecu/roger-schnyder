@@ -3,13 +3,18 @@
     src: url("https://schluecu.github.io/roger-schnyder.github.io/font/DINPro.woff");
 }
 
+@media (prefers-color-scheme: dark) {
+body {color:gainsboro; background-colour:dimgray}
+}
+@media (prefers-color-scheme: light) {
+body {color:black; background-colour:lightgray}
+}
+
 body {
     text-wrap:wrap;
     line-break:strict;
     -webkit-user-select: none;
     font-family: "DINPro";
-    background-color: lightgray;
-    color:black;
     font-size: clamp(12.5pt, 1vmax, 1vw);
     line-height: 1.3;
 }
@@ -127,7 +132,7 @@ r:hover {
 }
 
 .one {
-	width:60vw;
+    width:60vw;
 }
 
 .two {
