@@ -4,7 +4,7 @@
 }
 
 @media (prefers-color-scheme: dark) {
-body {color:gainsboro; background-color:383838;}
+body {color:gainsboro; background-color:#383838;}
 }
 @media (prefers-color-scheme: light) {
 body {color:black; background-color:lightgray;}
