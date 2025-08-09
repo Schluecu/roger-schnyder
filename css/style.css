@@ -97,6 +97,7 @@ r:hover {
 		flex-direction:row-reverse;
 		width:auto;
 		display:flex;
+		line-height:1.1;
 		padding-bottom:0.5vh;
 	}
 	margin-left:auto;
